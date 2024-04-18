@@ -7,20 +7,12 @@ event_url: https://semana.org
 location: predio caro
 address:
   street: Rua do Príncipe, 526 - Boa Vista 
-  city: recife
+  city: Recife
   region: PE
   postcode: '50050-900'
-  country: Brail
+  country: Brasil
 
 summary: IEE
-abstract: '
-Neste domingo (29/10), teve início o 9th IEEE LA-CCI 2023, uma das maiores conferências em Inteligência Artificial da América Latina, que segue até 1º de novembro.
-
-Neste ano, o evento conta com a organização de professores e alunos da Unicap. Em 2023, a conferência tem os professores do curso de Ciência da Computação Diego Pinheiro e Rodrigo Monteiro como General Chairs, a professora Andrea Ribeiro como Publicity Chair e os professores Liliane Fonseca e Waldemar Neto como Registration Chairs.
-
-Waldemar Neto é ex-professor da Unicap, sendo atualmente parte do corpo docente da UFRPE.
-
-O evento conta também com a participação do professor Wilmer Camacho, do curso de Física'
 
 
 #<colocar foto da semana da computaçao>
@@ -35,14 +27,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-05T00:00:00Z'
 
-authors: [thais mesquita]
+authors: [Thais Mesquita]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
@@ -64,3 +56,17 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+## Resumo
+
+<p align="justify">
+    Neste domingo (29/10), teve início o 9th IEEE LA-CCI 2023, uma das maiores conferências em Inteligência Artificial da América Latina, que segue até 1º de novembro. </p> 
+
+<p align="justify">
+    Neste ano, o evento conta com a organização de professores e alunos da Unicap. Em 2023, a conferência tem os professores do curso de Ciência da Computação Diego Pinheiro e Rodrigo Monteiro como General Chairs, a professora Andrea Ribeiro como Publicity Chair e os professores Liliane Fonseca e Waldemar Neto como Registration Chairs. </p> 
+
+<p align="justify">
+    Waldemar Neto é ex-professor da Unicap, sendo atualmente parte do corpo docente da UFRPE. </p> 
+
+<p align="justify">
+    O evento conta também com a participação do professor Wilmer Camacho, do curso de Física. </p> 

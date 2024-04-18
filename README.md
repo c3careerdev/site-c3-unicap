@@ -1,4 +1,3 @@
-```markdown
 # Bem-vindo ao Projeto 👋
 
 Este projeto foi desenvolvido durante o estágio para a agência experimental da universidade. O objetivo era criar um site para o curso de Ciência da Computação, utilizando a framework Hugo.
@@ -96,4 +95,3 @@ Segue a seguinte estrutura: tipo de publicação ou local de publicação, profe
 # 📂 folder tour
 
 É um folder importante por ser a primeira página que é visualizada pelo usuário. Nela, podemos mudar/escolher o nome do filename, que nada mais é que o nome do arquivo que está guardado do folder `icon` que está dentro do folder `media`. Além disso, podemos escolher um título, escrever uma frase que fica no topo da paginação.                     ---
-```

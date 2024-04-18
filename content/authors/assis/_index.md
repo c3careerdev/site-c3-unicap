@@ -6,7 +6,7 @@ title: Assis Tiago de Oliveira Filho
 superuser: true
 
 # Role/position
-role: Professora de Inteligência Artificial.
+role: Professor de Compiladores, Arquitetura de Softtware, Sistemas Digitais e Redes de Computadores 1.
 
 # Organizations/Affiliations
 organizations:
@@ -14,20 +14,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doutorando em Ciências da Computação na área de Redes de Computadores. Mestre em Ciências da Computação na área de Redes de Computadores. Bacharel em Ciências da Computação pela Universidade Católica de Pernambuco (2016). Técnico em Eletrônica pela União dos institutos Brasileiros de Tecnologia - UNIBRATEC (2013). É Professor Assistente I na Universidade Católica de Pernambuco (Unicap), onde leciona disciplinas nas áreas de Extensão, Compiladores, Arquitetura de Softtware, Sistemas digitais e Redes de Computadores. Também é pesquisador e gerente de pesquisa do Networking and Telecommunications Research Group - GPRT
+#bio: Doutorando em Ciência da Computação na área de Redes de Computadores. Mestre em Ciência da Computação na área de Redes de Computadores. Bacharel em Ciência da Computação pela Universidade Católica de Pernambuco (2016). Técnico em Eletrônica pela União dos Institutos Brasileiros de Tecnologia - UNIBRATEC (2013). É Professor Assistente I na Universidade Católica de Pernambuco (UNICAP), onde leciona disciplinas nas áreas de Extensão, Compiladores, Arquitetura de Software, Sistemas Digitais e Redes de Computadores 1. Também é pesquisador e gerente de pesquisa do Networking and Telecommunications Research Group - GPRT.
 
 interests :
-  - Redes de computadores
-  - Sistemas distriuidos
-  - Computaçao em nuvem
-  - Arquitetura de sistemas de computaçao
-  - virtualizaçao
-  - inteligencia articial
+  - Redes de Computadores
+  - Sistemas Distriuidos
+  - Computação em Nuvem
+  - Arquitetura de Sistemas de Computação
+  - Virtualização
+  - Inteligência Artificial
   - MIRC
   
 education:
   courses:
-    - course: Doutorado em andamento em  Ciência da Computação
+    - course: Doutorado em andamento em Ciência da Computação
       institution: Universidade Federal de Pernambuco
       year: 2022
     - course: Mestrado em Ciência da Computação
@@ -68,4 +68,6 @@ user_groups:
   - Pesquisadores
 ---
 
-O professor assis é responsavel pelas cadeiras de sistemas digiatis,compiladores,redes de computadores 1 ,computaçao e sociedade e sustentabilidade
+<div align="justify">
+    Doutorando em Ciência da Computação na área de Redes de Computadores. Mestre em Ciência da Computação na área de Redes de Computadores. Bacharel em Ciência da Computação pela Universidade Católica de Pernambuco (2016). Técnico em Eletrônica pela União dos Institutos Brasileiros de Tecnologia - UNIBRATEC (2013). É Professor Assistente I na Universidade Católica de Pernambuco (UNICAP), onde leciona disciplinas nas áreas de Extensão, Compiladores, Arquitetura de Software, Sistemas Digitais e Redes de Computadores 1. Também é pesquisador e gerente de pesquisa do Networking and Telecommunications Research Group - GPRT.
+</div>

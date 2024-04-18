@@ -9,7 +9,7 @@ sections:
     content:
       title: Entre em Contato
       text: |-
-        Outras Formas de Contatos disponiveis para tirar duvidas sobre a grade curricular e o curso 
+        Outras Formas de Contato disponíveis para tirar dúvidas sobre a grade curricular e sobre o curso. 
       email: dpa@unicap.br
       phone: '+55(81)2119-4000'
       address:
@@ -20,9 +20,9 @@ sections:
         country: Brasil
         country_code: BR
       coordinates:
-        latitude: '-8.05774'
-        longitude: '-34.88439'
-      directions: Entre pela entrada do bloco G,se encaminhe para o bloco A,suba o 1 andar e encontro o laboratorio do Loyola
+        latitude: '-8.054056'
+        longitude: '-34.887278'
+      directions: Acesse pela entrada do bloco G, suba ao 1º andar e encontre o laboratorio do Loyola.
       office_hours:
         - 2ª a 6ª – 8h às 21h
         - Sábados - 8h às 12h

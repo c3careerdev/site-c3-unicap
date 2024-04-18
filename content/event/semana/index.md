@@ -1,7 +1,7 @@
 ---
-title: Semana da computação 2024.1
+title: Semana da Computação 2024.1
 
-event: semana da computação
+event: Semana da Computação
 event_url: https://semana.org
 
 location: Unicap
@@ -13,9 +13,6 @@ address:
   country: Brail
 
 summary: semana da computação
-abstract: 'a semana da computaçao é um evento que acontece duas vezes ao ano na universidade no qual é oferecido aos alunos palestras
- palestras, oficinas e minicursos, divididos em trilhas específicas com o apoio de professores, estudantes e especialistas na área para compartilhar conhecimento, experiências e estreitar laços profissionais
- Não perca a chance de fazer parte do nosso evento! Fique atento ao[Instagram](https://www.instagram.com/c3.unicap/)o para informações sobre inscrições, programação completa e novidades.'
 
 
 #<colocar foto da semana da computaçao>
@@ -30,14 +27,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-05T00:00:00Z'
 
-authors: [thais mesquita]
+authors: [Thais Mesquita]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
@@ -59,3 +56,11 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+ ## Resumo
+
+ <p align="justify">
+    A semana da computaçao é um evento que acontece duas vezes ao ano na universidade no qual é oferecido aos alunos palestras, oficinas e minicursos, divididos em trilhas específicas com o apoio de professores, estudantes e especialistas na área para compartilhar conhecimento, experiências e estreitar laços profissionais. </p> 
+ 
+<p align="justify">
+    Não perca a chance de fazer parte do nosso evento! Fique atento ao <a href= "https://www.instagram.com/c3.unicap/"> Instagram</a> para mais informações sobre inscrições, programação completa e novidades. </p> 
